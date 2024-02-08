@@ -1,0 +1,23 @@
+.banner{
+    background-image: url("https://wallpaperaccess.com/full/2703652.png");
+    background-size: cover;
+    height: 550px;
+    color: white;
+
+}
+.title{
+    color: #fff;
+    font-weight: 600;
+    font-size: 36px;
+    font-family: "Goudy Bookletter 1911", sans-serif;
+}
+.description{
+    color: #fff;
+    font-family: "Goudy Bookletter 1911", sans-serif;
+}
+.details{
+    padding-top: 300px;
+    height: 200px;
+    padding-left: 40px;     
+    
+}

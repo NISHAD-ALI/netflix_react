@@ -1,0 +1,40 @@
+.nav{
+    top: 0;
+    position: fixed;
+    width: 100%;
+    height: 30px;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    transition: background-color 0.3s ease;
+}
+.logo{
+    position: fixed;
+    left: 42px;
+    width: 90px;
+    height: 26px;
+    
+}
+.list{
+    position: fixed;
+    display: flex;
+    color: rgb(208, 225, 241);
+    position:absolute;
+    left: 200px;
+    list-style-type: none;
+    font-family: 'Netflix Font', sans-serif;                                         
+}
+.minList:hover{
+    color: rgb(163, 179, 194);
+}
+.minList{
+   margin-right: 20px;
+}
+.avatar{
+    position: fixed;
+    right: 70px;
+    height: 30px;
+    width: 30px;
+    top: 8;
+}
